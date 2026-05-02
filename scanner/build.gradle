@@ -28,7 +28,7 @@ dependencies {
     androidTestImplementation 'androidx.test:core:1.4.0'
 
     // AndroidJUnitRunner
-    androidTestImplementation 'androidx.test:runner:1.4.0'
+    androidTestImplementation 'androidx.test:runner:1.7.0'
 
     // Assertions & AndroidJUnit4
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
