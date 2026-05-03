@@ -34,8 +34,8 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
 
     // Truth for Unit Testing
-    androidTestImplementation "com.google.truth:truth:1.1.3"
-    testImplementation "com.google.truth:truth:1.1.3"
+    androidTestImplementation "com.google.truth:truth:1.4.5"
+    testImplementation "com.google.truth:truth:1.4.5"
 }
 
 // === Maven Central configuration ===
